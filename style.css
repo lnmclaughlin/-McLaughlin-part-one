@@ -74,6 +74,29 @@ h3 {
     justify-content: space-between;
 }
 
+#Nico {
+padding-right: 5px;
+padding-bottom: 5px;
+}
+#Kit {
+padding-left: 5px;
+padding-bottom: 5px; 
+}
+#Rosco {
+padding-right:5px;
+padding-bottom: 5px;
+}
+#Daisy {
+padding-left:5px;
+padding-bottom: 5px;
+}
+#Lucille {
+padding-right:5px;
+}
+#Pete {
+padding-left: 5px;
+}
+
 footer {
     background-color: #70a48b;
     padding: 10px;
@@ -107,11 +130,49 @@ header {
  }
 .Pets {
     width: calc( 100% / 3 * 2);
-    margin: 10px;
+    margin: 5px;
     margin-top: 25px;
     margin-bottom: 10px ;
     padding-left: 45px;
     padding-bottom: 10%;
     align-items:stretch;
     flex-wrap: wrap;
-}}
+}
+#Nico {
+padding-right: 5px;
+padding-left: 5px;
+padding-bottom: 5px;
+width: 25%;
+
+}
+#Kit {
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 5px;
+width: 25%;
+
+}
+#Rosco {
+padding-left: 5px;
+padding-bottom:5px;
+width:25%;
+}
+#Daisy {
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+width: 25%;
+}
+#Lucille {
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+width: 25%;
+}
+#Pete {
+padding-top: 5px;
+padding-right: 5px;
+padding-bottom: 5px;
+width: 25%;
+}
+}
